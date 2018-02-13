@@ -1,0 +1,366 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SparkSQLExample$.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SparkSQLExample.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runDistanceJoinQuery$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runDistanceQuery$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runRangeJoinQuery$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runRangeQuery$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator1$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator2$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator3$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator4$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator5$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator6$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator7$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator8$1.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$.class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery.class
+binary dependencies:
+9 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> /Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> /Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> cse512.SparkSQLExample
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> cse512.SparkSQLExample$
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$anonfun$runDistanceJoinQuery$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$anonfun$runDistanceQuery$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$anonfun$runRangeJoinQuery$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$anonfun$runRangeQuery$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator1$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator2$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator3$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator4$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator5$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator6$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator7$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512.SpatialQuery$$typecreator8$1
+used names:
+225 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> !=
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> +
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> <=
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> <init>
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> <repeated>
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> ==
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> A
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Any
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> AnyRef
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Array
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> ArrayIndexOutOfBoundsException
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Boolean
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Builder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> CharSequence
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> DataFrame
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> DataFrameWriter
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> DatasetHolder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Encoder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Int
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Level
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Logger
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Long
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> NoSuchElementException
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Nothing
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Object
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Predef
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Row
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> SaveMode
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Seq
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> SparkSQLExample
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> SparkSession
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> SpatialQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> String
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> T
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> Unit
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> WARN
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> apache
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> appName
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> apply
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> args
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> builder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> collection
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> config
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> contains
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> cse512
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> csv
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> currentQueryIdx
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> currentQueryName
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> currentQueryParams
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> equalsIgnoreCase
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> getLogger
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> getOrCreate
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> implicits
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> length
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> localSeqToDatasetHolder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> log4j
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> mode
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> newStringEncoder
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> org
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> outputPath
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> package
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> paramOffset
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> paramsParser
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> queryLoader
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> queryName
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> queryParam
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> queryParams
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> queryResult
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> resultDf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> runDistanceJoinQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> runDistanceQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> runRangeJoinQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> runRangeQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> scala
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> setLevel
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> spark
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> split
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> sql
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> stop
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> toDF
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> toLowerCase
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> toString
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> while$1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> write
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> ||
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $m
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $m$untyped
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator3
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator4
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator5
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator6
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator7
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $typecreator8
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> $u
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> &&
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> *
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> +
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> -
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> <=
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> <init>
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ?0
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> A1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> A2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> A3
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Any
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> App
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Array
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Boolean
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Class
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ClassLoader
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> DataFrame
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> DataFrameReader
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Double
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Function2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Function3
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Int
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Internal
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> JavaUniverse
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> List
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Long
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Mirror
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ModuleSymbol
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Nil
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Nothing
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Object
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Predef
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> RT
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ReificationSupportApi
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ST_Contains
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ST_Within
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> SingleType
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Singleton
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> SparkSession
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> SpatialQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> String
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> StringOps
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Symbol
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> T
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> T0
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> ThisType
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Type
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> TypeCreator
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> TypeRef
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> TypeSymbol
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> TypeTag
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> U
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> UDFRegistration
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Unit
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> Universe
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> UserDefinedFunction
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> abs
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> apache
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> apply
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> area
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> arg1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> arg2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> arg3
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> asInstanceOf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> asModule
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> augmentString
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> boolean1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> boolean2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> count
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> createOrReplaceTempView
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> cse512
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> distance
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> format
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> getClass
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> getClassLoader
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> immutable
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> internal
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> l2Dist
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> load
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> materializeTypeTag
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> math
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> max
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> min
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> moduleClass
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> option
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> org
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> package
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointArray
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointArray1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointArray2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointDf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointDf2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointString
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointString1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pointString2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> pow
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> queryRectangle
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> read
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> rectArray
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> rectString
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> rectangleDf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> reflect
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> register
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> reificationSupport
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> resultDf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runDistanceJoinQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runDistanceQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runRangeJoinQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runRangeQuery
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runtime
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> runtimeMirror
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> scala
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> selectType
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> show
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> spark
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> split
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> sql
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> sqrt
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> staticModule
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> staticPackage
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> toDouble
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> udf
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> universe
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> x
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> x1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> x2
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> y
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> y1
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> y2
+product stamps:
+16 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SparkSQLExample$.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SparkSQLExample.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runDistanceJoinQuery$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runDistanceQuery$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runRangeJoinQuery$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$anonfun$runRangeQuery$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator1$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator2$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator3$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator4$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator5$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator6$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator7$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$$typecreator8$1.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery$.class -> lastModified(1509509445000)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/target/scala-2.11/classes/cse512/SpatialQuery.class -> lastModified(1509509445000)
+source stamps:
+2 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> hash(75ca989ade7496a3a730c71e26314fe7aba5de85)
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> hash(85386541321961b49d287a95f853f561e5f079fc)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1504666619000)
+/Users/jasmingeorge/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar -> lastModified(1498869487000)
+/Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+/Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar -> lastModified(1492113042000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jasmingeorge/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Logger
+/Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar -> org.apache.spark.sql.Row
+/Users/jasmingeorge/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.SparkSession$
+/Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.App
+/Users/jasmingeorge/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar -> scala.reflect.api.TypeCreator
+internal apis:
+2 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHJN4WAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDpGXNHQABm5vdGlmeXNxAH4ADDiCjGt0AAR3YWl0c3EAfgAMGlbqw3QADSRhc0luc3RhbmNlT2ZzcQB+AAyOd18JdAAGZXF1YWxzc3EAfgAMtgz7yHQADGFzSW5zdGFuY2VPZnNxAH4ADJtRcKh0AAxzeW5jaHJvbml6ZWRzcQB+AAzN5z5vdAANJGlzSW5zdGFuY2VPZnNxAH4ADOVU4Vt0AA9TcGFya1NRTEV4YW1wbGVzcQB+AAyHasB4dAAEbWFpbnNxAH4ADEs9Qg50AAlub3RpZnlBbGxzcQB+AAw3y8DkdAAMaXNJbnN0YW5jZU9mc3EAfgAMA1qk5HQAAj09c3EAfgAMfAltCnQABWNsb25lc3EAfgAMz0HF/nQACHRvU3RyaW5nc3EAfgAMHJUJFHQAAiE9c3EAfgAMuQCwvXQACGdldENsYXNzc3EAfgAM/r3GrXQAAm5lc3EAfgAMYsxTd3QAAmVxc3EAfgAM1S1lv3QAAiMjc3EAfgAMeEQvk3QACGZpbmFsaXplc3EAfgAMcMuGyHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFmNzZTUxMi5TcGFya1NRTEV4YW1wbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY3NlNTEyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFfdcYkg3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGIvVXNlcnMvamFzbWluZ2VvcmdlL0Rvd25sb2Fkcy9kZHMvcHJvamVjdC9DU0U1MTItUHJvamVjdC1QaGFzZTItVGVtcGxhdGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHXKmJredJajpzDHHiYxT+erpd6F
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkPU56AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwV6WCAXQABm5vdGlmeXNxAH4ADLlIafx0AARhcmVhc3EAfgAMFT5u1nQABHdhaXRzcQB+AAyIVi7EdAANJGFzSW5zdGFuY2VPZnNxAH4ADGe+NT90AAlTVF9XaXRoaW5zcQB+AAyvsWP2dAAGZXF1YWxzc3EAfgAMiHO5JnQADXJ1blJhbmdlUXVlcnlzcQB+AAykhnG8dAAQcnVuRGlzdGFuY2VRdWVyeXNxAH4ADEwquG90AAxhc0luc3RhbmNlT2ZzcQB+AAzlRXLNdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAx4LDNwdAAMc3luY2hyb25pemVkc3EAfgAM3/01N3QADSRpc0luc3RhbmNlT2ZzcQB+AAzbbpiTdAAEbWFpbnNxAH4ADMaT7d50AAlub3RpZnlBbGxzcQB+AAxcde3mdAARcnVuUmFuZ2VKb2luUXVlcnlzcQB+AAykyFJkdAAMaXNJbnN0YW5jZU9mc3EAfgAMzTtU93QAAj09c3EAfgAMWjX8hnQADFNwYXRpYWxRdWVyeXNxAH4ADGqY3ah0AAVjbG9uZXNxAH4ADCidd8F0ABRydW5EaXN0YW5jZUpvaW5RdWVyeXNxAH4ADGqcMFt0AAYkaW5pdCRzcQB+AAyvwFlTdAAIdG9TdHJpbmdzcQB+AAzDZ5+BdAAEYXJnc3NxAH4ADCfyNSh0AAIhPXNxAH4ADPDXlL50AAhnZXRDbGFzc3NxAH4ADDcUfrp0AAtTVF9Db250YWluc3NxAH4ADKpzkux0AAJuZXNxAH4ADNCkgal0AAJlcXNxAH4ADGqn16N0AAtkZWxheWVkSW5pdHNxAH4ADEcy/Gt0AAIjI3NxAH4ADHMhDHp0AAhmaW5hbGl6ZXNxAH4ADHO1t0F0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNjc2U1MTIuU3BhdGlhbFF1ZXJ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdnNxAH4AcXVxAH4AUgAAAABzcQB+AHF1cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIB4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgBkAHEAfgAndXEAfgBnAAAAAHNxAH4AjXQABFVuaXRxAH4Ak3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnEAfgA7c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCOWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB1c3EAfgCNdAAFQXJyYXlxAH4Ak3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCNdAAGU3RyaW5nc3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXQABGphdmFzcQB+AJl0AARsYW5ncQB+AJ5zcQB+AHF1cQB+ALUAAAAEc3EAfgCNdAADQXBwcQB+AJNzcQB+AI10AAtEZWxheWVkSW5pdHEAfgCTc3EAfgCNdAAGT2JqZWN0cQB+ALlzcQB+AI10AANBbnlxAH4Ak3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNzZTUxMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX3XGJIN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiL1VzZXJzL2phc21pbmdlb3JnZS9Eb3dubG9hZHMvZGRzL3Byb2plY3QvQ1NFNTEyLVByb2plY3QtUGhhc2UyLVRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSFOGVBMhlhtJ0oepX4U/Vh5fB5/A==
+external apis:
+0 items
+source infos:
+2 items
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SparkSQLExample.scala -> 
+AAAAAAAAAAA=
+/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Phase2-Template/src/main/scala/cse512/SpatialQuery.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX3XGJIN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYi9Vc2Vycy9qYXNtaW5nZW9yZ2UvRG93bmxvYWRzL2Rkcy9wcm9qZWN0L0NTRTUxMi1Qcm9qZWN0LVBoYXNlMi1UZW1wbGF0ZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

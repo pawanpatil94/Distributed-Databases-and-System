@@ -1,0 +1,25 @@
+exit
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+test/output hotzoneanalysis src/resources/point-hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/yellow_tripdata_2009-01_point.csv 
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/z5/24xpbvvs7z9fblgbjc34rsp80000gn/T/sbt-structure.xml
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/z5/24xpbvvs7z9fblgbjc34rsp80000gn/T/sbt-structure1.xml
+test/output hotzoneanalysis src/resources/point-hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point-hotzone.csv 
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+clean
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+version
+clean assembly
+clean
+assembly
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+version
+scala version
+scala -version
+clean
+all {file:/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Hotspot-Analysis-Template/}root/products {file:/Users/jasmingeorge/Downloads/dds/project/CSE512-Project-Hotspot-Analysis-Template/}root/test:products
+assembly
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+compile
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv
+compile
+run test/output hotzoneanalysis src/resources/point_hotzone.csv src/resources/zone-hotzone.csv hotcellanalysis src/resources/point_hotzone.csv

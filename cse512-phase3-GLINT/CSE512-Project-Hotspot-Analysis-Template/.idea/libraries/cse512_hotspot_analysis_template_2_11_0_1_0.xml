@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cse512-hotspot-analysis-template_2.11-0.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/scala-2.11/cse512-hotspot-analysis-template_2.11-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
